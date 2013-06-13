@@ -1,4 +1,4 @@
-jquery-submitsearch
+jQuery SubmitSearch
 ===================
 
-jQuery SubmitSearch
+SubmitSearch - An input field plugin for jQuery.
